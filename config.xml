@@ -5,7 +5,7 @@
         Эвотор LMS Mobile официальное приложение
     </description>
     <author email="mobile@moodle.com" href="http://moodle.com">
-        Команда Эвотор
+        Evotor Team
     </author>
     <content src="index.html" />
     <access origin="*" />

@@ -1,9 +1,9 @@
 {
   "name": "moodlemobile",
   "version": "3.4.1",
-  "description": "Мобильное приложение для Эвотор СДО.",
+  "description": "Evotor LMS Mobile Official.",
   "author": {
-    "name": "Эвотор LMS Mobile",
+    "name": "Evotor LMS Mobile",
     "email": "lms@evotor.ru"
   },
   "repository": {
