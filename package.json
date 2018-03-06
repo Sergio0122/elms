@@ -1,14 +1,14 @@
 {
   "name": "moodlemobile",
-  "version": "3.4.0",
-  "description": "The official app for Evotor LMS.",
+  "version": "3.4.1",
+  "description": "Мобильное приложение для Эвотор СДО.",
   "author": {
-    "name": "Evotor LMS",
+    "name": "Эвотор LMS Mobile",
     "email": "lms@evotor.ru"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/Sergio0122/elms.git"
   },
   "license": "Apache-2.0",
   "licenses": [
