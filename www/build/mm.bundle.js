@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "com.evotor.moodlemobile",
     "appname": "Evotor LMS Mobile",
     "desktopappname": "Evotor LMS",
     "versioncode" : "2021",
