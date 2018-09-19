@@ -97,24 +97,24 @@
         <variable name="CAMERA_USAGE_DESCRIPTION" value=" " />
         <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value=" " />
     </plugin>
-    <plugin name="cordova-plugin-media-capture" spec="npm">
+    <plugin name="cordova-plugin-media-capture" spec="https://github.com/apache/cordova-plugin-media-capture">
         <variable name="CAMERA_USAGE_DESCRIPTION" value="We'd like to access your camera to let you take a photo" />
         <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="We'd like to access your photo library to let you pick a photo" />
         <variable name="MICROPHONE_USAGE_DESCRIPTION" value="We'd like to access your microphone to let you record an audio" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="https://github.com/apache/cordova-plugin-device" />
-    <plugin name="cordova-plugin-globalization" spec="npm" />
-    <plugin name="cordova-plugin-inappbrowser" spec="npm" />
-    <plugin name="cordova-plugin-network-information" spec="npm" />
-    <plugin name="cordova-plugin-statusbar" spec="npm" />
-    <plugin name="cordova-plugin-whitelist" spec="npm" />
-    <plugin name="cordova-plugin-splashscreen" spec="npm" />
-    <plugin name="cordova-universal-clipboard" spec="npm" />
-    <plugin name="nl.kingsquare.cordova.background-audio" spec="npm1" />
-    <plugin name="phonegap-plugin-push" spec="npm">
+    <plugin name="cordova-plugin-globalization" spec="https://github.com/apache/cordova-plugin-globalization" />
+    <plugin name="cordova-plugin-inappbrowser" spec="https://github.com/apache/cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" spec="https://github.com/apache/cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-statusbar" spec="https://github.com/apache/cordova-plugin-statusbar" />
+    <plugin name="cordova-plugin-whitelist" spec="https://github.com/apache/cordova-plugin-whitelist" />
+    <plugin name="cordova-plugin-splashscreen" spec="https://github.com/apache/cordova-plugin-splashscreen" />
+    <plugin name="cordova-universal-clipboard" spec="https://github.com/dannywillems/ocaml-cordova-plugin-clipboard" />
+    <plugin name="nl.kingsquare.cordova.background-audio" spec="https://github.com/AubreyHewes/cordova-background-audio" />
+    <plugin name="phonegap-plugin-push" spec="https://github.com/phonegap/phonegap-plugin-push">
         <variable name="SENDER_ID" value="694767596569" />
     </plugin>
-    <plugin name="cordova-plugin-customurlscheme" spec="npm">
+    <plugin name="cordova-plugin-customurlscheme" spec="https://github.com/LikeMindNetworks/cordova-plugin-customurlscheme">
         <variable name="URL_SCHEME" value="moodlemobile" />
         <variable name="ANDROID_SCHEME" value=" " />
         <variable name="ANDROID_HOST" value=" " />
