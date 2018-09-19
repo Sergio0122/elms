@@ -90,7 +90,7 @@
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
     </platform>
     <icon src="resources/ios/icon/icon-small@3x.png" />
-    <plugin name="cordova-plugin-file" spec="npm" />
+    <plugin name="cordova-plugin-file" spec="https://github.com/apache/cordova-plugin-file" />
     <plugin name="cordova-plugin-file-transfer" spec="npm" />
     <plugin name="cordova-plugin-console" spec="npm" />
     <plugin name="cordova-plugin-camera" spec="npm">
