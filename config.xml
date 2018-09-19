@@ -91,8 +91,8 @@
     </platform>
     <icon src="resources/ios/icon/icon-small@3x.png" />
     <plugin name="cordova-plugin-file" spec="https://github.com/apache/cordova-plugin-file" />
-    <plugin name="cordova-plugin-file-transfer" spec="npm" />
-    <plugin name="cordova-plugin-console" spec="npm" />
+    <plugin name="cordova-plugin-file-transfer" spec="https://github.com/apache/cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-console" spec="https://github.com/apache/cordova-plugin-console" />
     <plugin name="cordova-plugin-camera" spec="npm">
         <variable name="CAMERA_USAGE_DESCRIPTION" value=" " />
         <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value=" " />
