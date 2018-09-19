@@ -93,7 +93,7 @@
     <plugin name="cordova-plugin-file" spec="https://github.com/apache/cordova-plugin-file" />
     <plugin name="cordova-plugin-file-transfer" spec="https://github.com/apache/cordova-plugin-file-transfer" />
     <plugin name="cordova-plugin-console" spec="https://github.com/apache/cordova-plugin-console" />
-    <plugin name="cordova-plugin-camera" spec="npm">
+    <plugin name="cordova-plugin-camera" spec="https://github.com/apache/cordova-plugin-camera">
         <variable name="CAMERA_USAGE_DESCRIPTION" value=" " />
         <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value=" " />
     </plugin>
@@ -102,7 +102,7 @@
         <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="We'd like to access your photo library to let you pick a photo" />
         <variable name="MICROPHONE_USAGE_DESCRIPTION" value="We'd like to access your microphone to let you record an audio" />
     </plugin>
-    <plugin name="cordova-plugin-device" spec="npm" />
+    <plugin name="cordova-plugin-device" spec="https://github.com/apache/cordova-plugin-device" />
     <plugin name="cordova-plugin-globalization" spec="npm" />
     <plugin name="cordova-plugin-inappbrowser" spec="npm" />
     <plugin name="cordova-plugin-network-information" spec="npm" />
